@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Seyed Hamid Reza Roodabeh - Homepage"
 title_separator          : "-"
 name                     : &name "Seyed Hamid Reza Roodabeh"
-description              : &description "PhD Graduate Researcher, Dependable Systems and Analytics Lab, UVA"
+description              : &description "Researcher in dependable robotic surgery, telesurgery, and multimodal surgical AI at UVA"
 url                      : https://hamidrezaro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hamidrezaro.github/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Seyed Hamid Reza Roodabeh"
   avatar           : "profile.jpg"
-  bio              : "PhD Graduate Researcher, Dependable Systems and Analytics Lab, UVA"
+  bio              : "I study dependable robotic surgery, telesurgery, and multimodal surgical AI."
   location         : "Charlottesville, VA, USA"
   employer         :
   pubmed           : 

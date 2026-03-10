@@ -1,13 +1,16 @@
 ---
 title: "PARSIAN 2018 Extended Team Description Paper"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Technical description paper for Parsian robotics team, competing in the 2018 ROBOCUP SSL competitions.'
+permalink: /publication/parsian-2018-extended-team-description-paper
+excerpt: "This paper describes the PARSIAN RoboCup SSL team's 2018 system, highlighting hardware upgrades, a ROS-based microservice software architecture, motion correction, profiling tools, and fault-recovery improvements."
 date: 2018-10-01
-venue: 'Robocup'
-paperurl: 'https://ssl.robocup.org/wp-content/uploads/2019/01/2018_ETDP_Parsian.pdf'
-citation: 
+venue: "RoboCup Small Size League"
+paperurl: /files/robocup2018.pdf
+header:
+  teaser: /files/robocup2018.png
 ---
-Technical description paper for Parsian robotics team, competing in the 2018 ROBOCUP SSL competitions.
+<img src="{{ '/files/robocup2018.png' | relative_url }}" alt="First-page preview of the PARSIAN 2018 team description paper" style="max-width: 100%; height: auto;" />
 
-[Download paper here](https://ssl.robocup.org/wp-content/uploads/2019/01/2018_ETDP_Parsian.pdf)
+This paper presents the 2018 technical description of the PARSIAN RoboCup Small Size League team. It summarizes the team's hardware refinements, ROS-based distributed software architecture, motion correction and profiling tools, and active fault-recovery mechanisms that improved robot monitoring, control, and obstacle avoidance during competition.
+
+[Download paper here]({{ page.paperurl | relative_url }})
