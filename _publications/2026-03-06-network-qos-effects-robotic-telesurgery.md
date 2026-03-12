@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/network-qos-effects-robotic-telesurgery
 excerpt: "This work introduces NetFI and quantifies how packet loss, delay, and communication loss affect telesurgical performance, safety, and workload at both the task and motion-primitive levels."
 date: 2026-03-06
-venue: "ICRA 2026"
-publication_label: "Submitted to"
+venue: "IEEE International Conference on Robotics and Automation (ICRA)"
+publication_label: "Published in"
 paperurl: /files/icra2026.pdf
 header:
   teaser: /files/icra2026.png
